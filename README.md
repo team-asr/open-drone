@@ -21,19 +21,24 @@ The Open Drone Suite is build using the Java Programming Language, employs shell
 ![](architecture.png)
 
 ### Installation and Usage Guide
-### Contribution Guide
 
-GETTING STARTED
+#### GETTING STARTED
 
 Head on to our repositories for a breakdown of how to get started.
 
-To build a drone using our designs, review the read me instructions at: https://github.com/team-asr: Repository for Open Drone CAD files
+To build a drone using our designs, review the read me instructions at: https://github.com/team-asr/od-CAD: Repository for Open Drone CAD files
 
-For some sample photos of what we've thus far collected, please head to: https://github.com/team-asr: Repository for Open Drone Data, including aerial imagery and analytics 
+For some sample photos of what we've thus far collected, please head to: https://github.com/team-asr/od-DATA: Repository for Open Drone Data, including aerial imagery and analytics 
 
-For the latest on the software and algorithms we are working on, please head to: team-asr/od-GCS: Repository for Open Drone Ground Control Station (github.com)
+For the latest on the software and algorithms we are working on, please head to: https://github.com/team-asr/team-asr/od-GCS: Repository for Open Drone Ground Control Station (github.com)
 
-LICENSES
+### Contribution Guide
+The Open Drone Suite is an open source project that can be forked or downloaded directly for use without addition. If you wish to make changes for your own purpose, feel free to fork the projects relating to what to you want to do.
+You can directly add to the project by requesting access to directly push changes to the project by contacting the maintaince members. Their contacts are listed at the license section of this document.
+This project is continually being updated and more information regarding how to push changes to the master will be included here once mode of ensuring changes do not affect the current work have been identified. In the meantime
+it is possible to fork or clone the project and get started. A video is also being made to show how to install, run, and work on the code. You can use an IDE of your choice or use Notepad++ as we do.
+
+#### LICENSES
 
 Our work is licensed under open standards, and each repository lists licenses associated with it. You are welcome to copy, amend, distribute the software, install it, or build your drone. Feel free to reach out to us in the event you require support to setup your own open drone.
 
