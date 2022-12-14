@@ -67,5 +67,6 @@ The Open Drone Project is in active development and maintained by the following 
 
 Moses gichangA, Founder & Lead Engineer.
 gichanga[at]as-research.org
+
 Samuel Muniu, Implementation Lead, Soil & Environment Engineer.
 monio[at]as-research.org
