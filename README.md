@@ -29,8 +29,11 @@ b) The backend, comprising the mechanisms through which data is stored, and thro
 d) The hardware stack, comprising the aerial system through which data is acquired using sensors on board the platform.
 
 #### The Front End
+Update coming
 #### The Backend
+Update coming
 #### The Hardware Stack
+Update coming
 
 ### Installation and Usage Guide
 
