@@ -21,8 +21,16 @@ The Open Drone Suite is build using the Java Programming Language, employs shell
 The image below shows the major components and how they relate to each other. Each technology used is shown alongside to be able to understand how the components interconnect.
 ![](architecture.png)
 
-### Overview of the System
+#### Overview of the System
 The following is a breakdown of each subsystem/component:
+There are 3 major components to the Open Drone Suite:
+a) The Frontend, comprising the user interface that drives the entire project suite
+b) The backend, comprising the mechanisms through which data is stored, and through which data is processed into useful/meaningful information.
+d) The hardware stack, comprising the aerial system through which data is acquired using sensors on board the platform.
+
+#### The Front End
+#### The Backend
+#### The Hardware Stack
 
 ### Installation and Usage Guide
 
