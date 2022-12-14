@@ -1,18 +1,27 @@
 # open-drone
 A collective repo linking all relevant repositories to get started building open drones.
 
-The Open Drone Project
-THE CHALLENGE
+##The Open Drone Project
+###THE CHALLENGE
 
 The drone has presented itself as a ubiquitous tool for transformative change, from taking aerial photos to delivering much needed supplies including medical supplies and food. Wielding this tool, we can leverage high precision images in various light/electromagnetic spectrum to deduce patterns of interest in crops, the atmosphere, soil and water ecosystems. By so doing, we can identify threats to these precious ecosystems and safeguard them against degradation.
 
-THE SOLUTION
+###THE SOLUTION
 
 We have come up with a simple to build and assemble aerial platform that can be used for persistent monitoring to ensure patterns are deduced early and that they can lead to forecasting future threats. Upon capturing patterns of interest, data is stored in a retrieval system to build a data warehouse which will eventually be used to train neural networks/machine learning to deduce patterns and make forecasts.
 
-WHY OPEN HARDWARE AND SOFTWARE?
+###WHY OPEN HARDWARE AND SOFTWARE?
 
 Using an open ecosystem will ensure continued evolution of the product through public participation and peer review, as well as ensure rollout of the solution to as many countries as possible. Our idea of the future is being able to forecast carbon sequestration and related issues threatening delicate ecosystems from climate change. We cannot do it alone!
+
+##SOLUTION ARCHITECTURE
+
+###Technology Stack
+The Open Drone Suite is build using the Java Programming Language, employs shell scripting as a joiner to various components, as shall be seen in the following documentation.
+![](architecture.png)
+
+###Installation and Usage Guide
+###Contribution Guide
 
 GETTING STARTED
 
