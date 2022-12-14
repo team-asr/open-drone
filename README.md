@@ -18,7 +18,11 @@ Using an open ecosystem will ensure continued evolution of the product through p
 
 ### Technology Stack
 The Open Drone Suite is build using the Java Programming Language, employs shell scripting as a joiner to various components, as shall be seen in the following documentation.
+The image below shows the major components and how they relate to each other. Each technology used is shown alongside to be able to understand how the components interconnect.
 ![](architecture.png)
+
+### Overview of the System
+The following is a breakdown of each subsystem/component:
 
 ### Installation and Usage Guide
 
