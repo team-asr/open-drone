@@ -45,7 +45,7 @@ To build a drone using our designs, review the read me instructions at: https://
 
 For some sample photos of what we've thus far collected, please head to: https://github.com/team-asr/od-DATA: Repository for Open Drone Data, including aerial imagery and analytics 
 
-For the latest on the software and algorithms we are working on, please head to: https://github.com/team-asr/team-asr/od-GCS: Repository for Open Drone Ground Control Station (github.com)
+For the latest on the software and algorithms we are working on, please head to: https://github.com/team-asr/od-GCS: Repository for Open Drone Ground Control Station (github.com)
 
 ### Contribution Guide
 The Open Drone Suite is an open source project that can be forked or downloaded directly for use without addition. If you wish to make changes for your own purpose, feel free to fork the projects relating to what to you want to do.
